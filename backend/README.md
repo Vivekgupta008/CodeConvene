@@ -3,12 +3,10 @@
 This guide provides step-by-step instructions to configure your `.env` file and securely use a GitHub Personal Access Token in your FastAPI project.
 
 ## 1. Create the `.env` File
-
 1. Navigate to the `backend` directory where your project is set up.
 2. Create a new file named `.env` (if it doesn’t already exist).
 
 ## 2. Add the GitHub Access Token
-
 1. Open the `.env` file and add the following line:
    
    ```text
