@@ -13,7 +13,6 @@ const Dashboard: React.FC<Props> = ({ repoData }) => {
   if (!repoData) {
     return <div>No data available. Please analyze a repository first.</div>;
   }
-
   const handleNewIntegration = () => {
     toast.success('Creating new integration...');
   };
