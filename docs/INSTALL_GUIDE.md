@@ -13,7 +13,7 @@ Follow this guide to set up CodeConvene.AI's development environment on your loc
 1. Clone the repository. (If you are using a fork of the repository, replace the GitHub repo url with your own)
 
 ```sh
-git clone https://github.com/AOSSIE-Org/CodeConvene.AI.git
+git clone https://github.com/Vivekgupta008/CodeConvene.git
 cd CodeConvene.AI
 ```
 

@@ -116,7 +116,7 @@ const PrivacyPolicy: React.FC = () => {
                                 <h2 className="text-xl font-semibold mb-4">Contact Us</h2>
                                 <p className="text-gray-300">
                                     If you have any questions about this Privacy Policy, please contact us at: <br />
-                                    <strong>Email:</strong> <a href="mailto:aossie.oss@gmail.com" className="text-primary hover:underline">aossie.oss@gmail.com</a>.
+                                    <strong>Email:</strong> <a href="" className="text-primary hover:underline">aossie.oss@gmail.com</a>.
                                 </p>
                             </section>
                         </div>

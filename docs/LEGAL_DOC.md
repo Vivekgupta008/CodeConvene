@@ -46,4 +46,3 @@ CodeConvene.AI integrates with several third-party platforms (e.g., Discord, Sla
 
 ## 11. Contact Information
 If you have any questions about this Agreement, please contact us at:  
-**Email:** aossie.oss@gmail.com

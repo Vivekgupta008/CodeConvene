@@ -42,13 +42,13 @@ const Footer: React.FC = () => {
                         &copy; {currentYear} CodeConvene.AI. All rights reserved.
                     </p>
                     <div className="flex space-x-6">
-                        <a href="https://github.com/AOSSIE-Org/CodeConvene.AI/" className="text-gray-400 hover:text-primary" target='_blank' rel="noreferrer">
+                        <a href="https://github.com/Vivekgupta008/CodeConvene.git" className="text-gray-400 hover:text-primary" target='_blank' rel="noreferrer">
                             <Github size={20} />
                         </a>
-                        <a href="https://x.com/aossie_org?lang=en" className="text-gray-400 hover:text-primary" target='_blank'>
+                        <a href="" className="text-gray-400 hover:text-primary" target='_blank'>
                             <Twitter size={20} />
                         </a>
-                        <a href="https://www.linkedin.com/company/aossie/?originalSubdomain=au" className="text-gray-400 hover:text-primary" target='_blank'>
+                        <a href="h" className="text-gray-400 hover:text-primary" target='_blank'>
                             <Linkedin size={20} />
                         </a>
                     </div>

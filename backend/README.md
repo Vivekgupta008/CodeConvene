@@ -46,7 +46,7 @@ Use `curl` or **Postman** to test the `/api/repo-stats` endpoint:
 ```bash
 curl -X POST http://localhost:8000/api/repo-stats \
      -H "Content-Type: application/json" \
-     -d '{"repo_url": "https://github.com/AOSSIE-Org/CodeConvene.AI/"}'
+     -d '{"repo_url": ""}'
 ```
 
 If all the things correctly got setup then you will see the JSON repsponse
